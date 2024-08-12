@@ -1,0 +1,45 @@
+#cyno{
+  width: 200px;
+}
+#imgf{
+    display:flex
+}
+#PCyno{
+    margin: 0px 10px;
+   
+}
+#dir{
+    display: inline;
+    
+    width: 50vw;
+}
+#zh{
+    width: 50vw;
+}
+table, th, td {
+    border:1px solid black;
+    width: 30%;
+    text-align: center;
+  }
+  table{
+    margin: 20px 10px;
+  }
+  button:hover{
+    width: 5%;
+  
+
+  }
+  button{
+    display: block;
+    margin-bottom: 10px;
+  }
+  a{
+    text-decoration: none;
+    text-align: center;
+    display:block;
+    margin: 20px;
+    border: 1px solid black;
+    width: 50px;
+    
+  }
+ 

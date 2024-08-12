@@ -1,0 +1,12 @@
+h1{
+    color: #696DBF;
+    text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000,
+             1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+}
+#ab{
+ all: unset;
+ margin: 5px 20px;
+}
+h3{
+    display: inline;
+}

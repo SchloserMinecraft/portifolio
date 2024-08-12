@@ -1,0 +1,13 @@
+button{
+background-color: #848484;
+    margin-right: 15px;
+}
+
+html{
+    background-image: url("sla.jpg") ;}
+   
+    h1{
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: #000;
+        font-size: 3em; color: #acacac;
+        }

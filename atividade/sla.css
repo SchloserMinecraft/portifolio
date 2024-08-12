@@ -1,0 +1,138 @@
+header{
+    background-color:#262626;
+   border-radius: 5px 5px 0px 0px;
+   margin:0px 15px;
+   margin-top: 5px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-align: center;
+     
+     -webkit-text-stroke-width: 2px; /* largura da borda */
+    -webkit-text-stroke-color: black; /* cor da borda */
+    margin: 0px;
+    color: #f2f2f2;
+    font-size: 60px;
+}
+
+
+body{
+    background-color: #ffffff;
+    
+}
+
+#linha1{
+    background-color: #931E53;
+    height: 4px;
+    border-radius: 5px 5px 0px 0px;
+}
+#linha2{
+    background-color:black;
+    height: 4px;
+}
+#linha3{
+    background-color: #931E53;
+    height: 4px;
+    
+}
+main{
+    background-image: url(/pasta_som_icon_img/ghngh.png);
+    margin: 0px;
+    border:5px solid #262626 ;
+    border-radius: 3px;
+    height: 700px;
+    background-size: cover;
+background-repeat: no-repeat;
+    
+}
+h2{
+    text-align: center;
+    margin:0px;
+    color:#f2f2f2;
+    -webkit-text-stroke-width: 1.5px; /* largura da borda */
+    -webkit-text-stroke-color: #262626; /* cor da borda */
+    font-size: 40px;
+}
+#lista{
+    background-color: #931E53;
+    width: 400px;
+    padding: 1px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    border: solid ;
+    
+}
+li{
+    color:#f2f2f2
+}
+#video{
+    margin-top: 10px;
+  text-align: center;
+  
+}
+
+iframe{
+    border: 5px solid #000000;
+}
+img{
+    height: 80px;
+   
+
+}
+
+#linkvideo{
+    background-color: #931E53;
+    width: 400px;
+    padding: 1px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    border: solid ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+a{
+    all: unset;
+    color: #f2f2f2;
+    
+}
+a:hover{
+   color:#262626;
+
+}
+#button{
+    
+    background-color: #931E53;
+    width: 400px;
+    height: 40px;
+    padding: 1px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    border: solid ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 5px;
+}
+#bt{
+    background-image: linear-gradient(to right,#8C0327 ,#A6215F );
+    color: #d4d4d4;
+    
+}
+#bt:hover{
+    width: 70px;
+    height: 25px;
+}
+

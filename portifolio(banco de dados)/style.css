@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 100px;
+   align-items: center;
+  display: flex;
+    background-color: rgb(255, 156, 205);
+    padding: 0px 0px 0px 10px;
+  
+}
+
+ h1{
+    
+    color: #EE0054;
+
+ -webkit-text-stroke-width: 1.5px; /* largura da borda */
+ -webkit-text-stroke-color: #840554; /* cor da borda */
+
+}
+header a{
+    font-size:20px ;
+    text-decoration: none;
+    color: #EE0054;
+   text-align: end;
+    -webkit-text-stroke-width: 1.5px; /* largura da borda */
+    -webkit-text-stroke-color: #840554; /* cor da borda */
+    padding-right: 20px;
+}
+#que {
+padding-left: 55%;
+}
+
+
+
+
+
